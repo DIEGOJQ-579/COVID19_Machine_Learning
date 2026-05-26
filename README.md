@@ -2,7 +2,7 @@
 Proyecto de Machine Learning aplicado al análisis de COVID-19
 
 <p align="center">
-  <img src="images/Banner.png" alt="COVID-19 ML Banner" width="100%">
+  <img src="Banner.png" width="100%" alt="Banner del proyecto">
 </p>
 
 ## 👥 Autores
