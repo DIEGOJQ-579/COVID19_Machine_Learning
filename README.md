@@ -25,7 +25,7 @@ Este proyecto utiliza el siguiente conjunto de datos público:
 
 🔗[Kaggle](https://www.kaggle.com/datasets/meirnizri/covid19-dataset?resource=download)
 
-El dataset contiene información relacionada con pacientes y variables asociadas al COVID-19, utilizada para aplicar técnicas de Machine Learning y análisis predictivo.
+El dataset contiene más de +1.000.000 de filas,14 columnas,que tiene información relacionada con pacientes y variables asociadas al COVID-19, utilizada para aplicar técnicas de Machine Learning y análisis predictivo.
 
 Incluye variables como:
 
