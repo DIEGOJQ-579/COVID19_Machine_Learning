@@ -83,7 +83,7 @@ Todos los modelos fueron evaluados mediante métricas de clasificación como Acc
 
 🔗 **Presentación del proyecto (Diapositivas):**  
 
-[Diapositivas](https://colab.research.google.com/drive/1nSpLDpK6OaxgiOIefXFuxNkd3vWRvXU7#scrollTo=oZDkm8y10xBM)
+[Diapositivas](Proyec_COVID-19.pdf)
 
 
 
