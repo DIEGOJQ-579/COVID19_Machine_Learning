@@ -1,9 +1,9 @@
 ## 🦠COVID19_Machine_Learning
 Proyecto de Machine Learning aplicado al análisis de COVID-19
 
-
-
-
+<p align="center">
+  <img src="images/Banner.png" alt="COVID-19 ML Banner" width="100%">
+</p>
 
 ## 👥 Autores
 - **Juan Andres Morera Ramirez-2243581**  
