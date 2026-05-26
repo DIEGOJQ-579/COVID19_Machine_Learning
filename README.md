@@ -23,27 +23,26 @@ Comparar diferentes algoritmos predictivos para mejorar la detección y análisi
 
 Este proyecto utiliza el siguiente conjunto de datos público:
 
-https://www.kaggle.com/datasets/meirnizri/covid19-dataset?resource=download
+🔗[Kaggle](https://www.kaggle.com/datasets/meirnizri/covid19-dataset?resource=download)
 
 El dataset contiene información relacionada con pacientes y variables asociadas al COVID-19, utilizada para aplicar técnicas de Machine Learning y análisis predictivo.
 
 Incluye variables como:
 
--Edad
--Condiciones médicas
--Resultados clínicos
--Factores de riesgo
--Variables categóricas y numéricas relacionadas con COVID-19
+- Edad
+- Condiciones médicas
+- Resultados clínicos
+- Factores de riesgo
+- Variables categóricas y numéricas relacionadas con COVID-19
 
 Aplicación en el proyecto:
 
--Clasificación de pacientes
--Predicción de riesgo y gravedad
--Entrenamiento de modelos supervisados
--Reducción de dimensionalidad con PCA
--Clustering con K-Means
--Deep Learning para análisis predictivo
-
+- Clasificación de pacientes
+- Predicción de riesgo y gravedad
+- Entrenamiento de modelos supervisados
+- Reducción de dimensionalidad con PCA
+- Clustering con K-Means
+- Deep Learning para análisis predictivo
 
 El conjunto de datos fue procesado mediante técnicas de limpieza, escalado y balanceo para mejorar el rendimiento de los modelos de Machine Learning.
 
@@ -68,7 +67,7 @@ Todos los modelos fueron evaluados mediante métricas de clasificación como Acc
 
 🔗 **Colab del proyecto:**  
 
-https://colab.research.google.com/drive/1nSpLDpK6OaxgiOIefXFuxNkd3vWRvXU7#scrollTo=oZDkm8y10xBM
+[Codigo](https://colab.research.google.com/drive/1nSpLDpK6OaxgiOIefXFuxNkd3vWRvXU7#scrollTo=oZDkm8y10xBM)
 
 ---
 
@@ -76,7 +75,17 @@ https://colab.research.google.com/drive/1nSpLDpK6OaxgiOIefXFuxNkd3vWRvXU7#scroll
 
 🔗 **Presentación del proyecto (video):**  
 
-https://youtu.be/Otg3J5AO0NI
+[Video](https://youtu.be/Otg3J5AO0NI)
+
+---
+
+## 🎬 Presentacion Diapositivas
+
+🔗 **Presentación del proyecto (Diapositivas):**  
+
+[Diapositivas](https://colab.research.google.com/drive/1nSpLDpK6OaxgiOIefXFuxNkd3vWRvXU7#scrollTo=oZDkm8y10xBM)
+
+
 
 
 
