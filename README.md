@@ -75,7 +75,7 @@ Todos los modelos fueron evaluados mediante métricas de clasificación como Acc
 
 🔗 **Presentación del proyecto (video):**  
 
-[Video](https://youtu.be/Otg3J5AO0NI)
+[Video](https://youtu.be/GJqqzj3jPBw)
 
 ---
 
